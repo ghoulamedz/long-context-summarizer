@@ -1,0 +1,4 @@
+{
+  "agent_name": "long-context-summarizer",
+  "auto_start_relay": true
+}
